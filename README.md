@@ -55,3 +55,11 @@ You can use *Docker* to set up the environment using the following guide,
 
 ## Dataset Used
 The Dataset used for this tutorial can be found at [here](https://www.kaggle.com/datasets/dinnymathew/usstockprices).
+
+# References and Resources
+
+- [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/getting_started/quickstart_df.html)
+- [Spark by Example](https://sparkbyexamples.com/pyspark/pyspark-partitionby-example/)
+- [Spark Core Concepts](https://luminousmen.com/post/spark-core-concepts-explained)
+- [PySpark by Databricks](https://databricks.com/glossary/pyspark)
+- [PySpark Cheat Sheet by AWS](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_SQL_Cheat_Sheet_Python.pdf)
